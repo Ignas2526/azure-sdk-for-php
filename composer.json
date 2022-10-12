@@ -19,8 +19,8 @@
         "microsoft/azure-storage-queue": "^1.0",
         "microsoft/azure-storage-table": "^1.0",
         "guzzlehttp/guzzle": "^6.2 || ^7.0.1",
-        "zendframework/zend-mime": "^2.6",
-        "zendframework/zend-mail": "^2.7"
+        "laminas/laminas-mime": "^2.6",
+        "laminas/laminas-mail": "^2.7"
     },
 
     "require-dev": {
